@@ -16,6 +16,7 @@
     "portuguese": "Mina de areia",
     "hungarian": "Homokbánya",
     "thai": "เหมืองทราย",
+    "arabic": "منجم رمل",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -34,6 +35,7 @@
     "portuguese": "Mina de enxofre",
     "hungarian": "Kénbánya",
     "thai": "เหมืองกำมะถัน",
+    "arabic": "منجم كبريت",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -52,6 +54,7 @@
     "portuguese": "Mina de ferro",
     "hungarian": "Vasbánya",
     "thai": "เหมืองเหล็ก",
+    "arabic": "منجم حديد",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -70,6 +73,7 @@
     "portuguese": "Mina de cobre",
     "hungarian": "Rézbánya",
     "thai": "เหมืองทองแดง",
+    "arabic": "منجم نحاس",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -88,6 +92,7 @@
     "portuguese": "Mina de alumínio",
     "hungarian": "Bauxitbánya",
     "thai": "เหมืองอลูมิเนียม",
+    "arabic": "منجم ألومنيوم",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -106,6 +111,7 @@
     "portuguese": "Mina de urânio",
     "hungarian": "Urániumbánya",
     "thai": "เหมืองยูเรเนียม",
+    "arabic": "منجم يورانيوم",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -124,6 +130,7 @@
     "portuguese": "Mina de irídio",
     "hungarian": "Irídiumbánya",
     "thai": "เหมืองอิริเดียม",
+    "arabic": "منجم إيريديوم",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -142,6 +149,7 @@
     "portuguese": "Grande mina de areia",
     "hungarian": "Nagy homokbánya",
     "thai": "เหมืองทรายขนาดใหญ่",
+    "arabic": "منجم رمل كبير",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -160,6 +168,7 @@
     "portuguese": "Grande mina de enxofre",
     "hungarian": "Nagy kénbánya",
     "thai": "เหมืองกำมะถันขนาดใหญ่",
+    "arabic": "منجم كبريت كبير ",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -178,6 +187,7 @@
     "portuguese": "Grande mina de ferro",
     "hungarian": "Nagy vasbánya",
     "thai": "เหมืองเหล็กขนาดใหญ่",
+    "arabic": "منجم حديد كبير",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -196,6 +206,7 @@
     "portuguese": "Grande mina de cobre",
     "hungarian": "Nagy rézbánya",
     "thai": "เหมืองทองแดงขนาดใหญ่",
+    "arabic": "منجم نحاس كبير",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -214,6 +225,7 @@
     "portuguese": "Grande mina de alumínio",
     "hungarian": "Nagy alumíniumbánya",
     "thai": "เหมืองอลูมิเนียมขนาดใหญ่",
+    "arabic": "منجم ألومنيوم كبير",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -232,6 +244,7 @@
     "portuguese": "Grande mina de urânio",
     "hungarian": "Nagy urániumbánya",
     "thai": "เหมืองยูเรเนียมขนาดใหญ่",
+    "arabic": "منجم يورانيوم كبير",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -250,6 +263,7 @@
     "portuguese": "Grande mina de irídio",
     "hungarian": "Nagy irídiumbánya",
     "thai": "เหมืองอิริเดียมขนาดใหญ่",
+    "arabic": "منجم إيريديوم كبير",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -268,6 +282,7 @@
     "portuguese": "Fábrica de eletrônicos",
     "hungarian": "Elektromos modul gyár",
     "thai": "โรงงานชิ้นส่วนอิเล็กทรอนิกส์",
+    "arabic": "مصنع إلكترونيات",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -286,6 +301,7 @@
     "portuguese": "Fábrica de microchip",
     "hungarian": "Mikrochip gyár",
     "thai": "โรงงานไมโครชิป",
+    "arabic": "مصنع شرائح دقيقة",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -304,6 +320,7 @@
     "portuguese": "Fábrica de processador neural",
     "hungarian": "Neurális processzor gyár",
     "thai": "โรงงานเครื่องประมวลผลประสาท",
+    "arabic": "مصنع المعالجات العصبية",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -322,6 +339,7 @@
     "portuguese": "Fábrica de motor",
     "hungarian": "Motorgyár",
     "thai": "โรงงานมอเตอร์",
+    "arabic": "مصنع المحركات",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -340,6 +358,7 @@
     "portuguese": "Fábrida de nanotubos",
     "hungarian": "Nanocsőgyár",
     "thai": "โรงงานท่อนาโน",
+    "arabic": "مصنع الأنابيب شديدة الصغر",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -358,6 +377,7 @@
     "portuguese": "Fábrica de liga de irídio",
     "hungarian": "Irídium ötvözet gyár",
     "thai": "โรงงานโลหะผสมอิริเดียม",
+    "arabic": "مصنع سبائك الإيريديوم",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -376,6 +396,7 @@
     "portuguese": "Fábrica de monitore holográfico",
     "hungarian": "Holo kijelző gyár",
     "thai": "โรงงานจอแสดงผลโฮโลแกรม",
+    "arabic": "مصنع شاشات الهولوغرام",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -394,6 +415,7 @@
     "portuguese": "fábrica de núcleo de radiação",
     "hungarian": "Sugárzásmag gyár",
     "thai": "โรงงานแกนรังสี",
+    "arabic": "مصنع قلب الإشعاع",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -412,6 +434,7 @@
     "portuguese": "Fábrica de concreto",
     "hungarian": "Betongyár",
     "thai": "โรงงานคอนกรีต",
+    "arabic": "مصنع الخرسانة",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -430,6 +453,7 @@
     "portuguese": "Siderúrgica",
     "hungarian": "Acélgyár",
     "thai": "โรงตีเหล็กกล้า",
+    "arabic": "مصنع الصلب",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -448,6 +472,7 @@
     "portuguese": "Fábrica de eletrodomésticos",
     "hungarian": "Háztartási gép gyár",
     "thai": "โรงงานเครื่องใช้ในบ้าน",
+    "arabic": "مصنع الأجهزة المنزلية",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -466,6 +491,7 @@
     "portuguese": "Fábrica de computadores",
     "hungarian": "Számítógép gyár",
     "thai": "โรงงานคอมพิวเตอร์",
+    "arabic": "مصنع الحاسوب",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -484,6 +510,7 @@
     "portuguese": "Fábrica de robôs domésticos",
     "hungarian": "Házi robot gyár",
     "thai": "โรงงานหุ่นยนต์บ้าน",
+    "arabic": "مصنع الروبوت المنزلي",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -502,6 +529,7 @@
     "portuguese": "Fábrica de robôs industriais",
     "hungarian": "Ipari robot gyár",
     "thai": "โรงงานหุ่นยนต์อุตสาหกรรม",
+    "arabic": "مصنع روبوتات المصانع",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -520,6 +548,7 @@
     "portuguese": "Oficina de alta tecnologia",
     "hungarian": "Csúcstechnológia műhely",
     "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
+    "arabic": "ورشة عالية التقنية",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -538,6 +567,7 @@
     "portuguese": "Fábrica realidade virtual educativa",
     "hungarian": "Virtuális oktatóprogram gyár",
     "thai": "โรงงานเครื่องจำลองโลกบันเทิงเสมือนจริง",
+    "arabic": "مصنع نظارات التعليم ثلاثية الأبعاد",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -556,6 +586,7 @@
     "portuguese": "Fábrica de propelente de irídio",
     "hungarian": "Irídium hajtóanyag gyár",
     "thai": "โรงงานเชื้อเพลิงอิริเดียม",
+    "arabic": "مصنع الإيريديوم الدافع",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -574,6 +605,7 @@
     "portuguese": "Fábrica de unidades de controle de IA",
     "hungarian": "MI irányító egység gyár",
     "thai": "โรงงานตัวควบคุมปัญญาประดิษฐ์",
+    "arabic": "مصنع وحدات تحكم الذكاء الاصطناعي",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -592,6 +624,7 @@
     "portuguese": "Fábrica de pacotes de ciência azul",
     "hungarian": "Kék tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีน้ำเงิน",
+    "arabic": "مصنع حزم العلم الزرقاء",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -610,6 +643,7 @@
     "portuguese": "Fábrica de pacotes de ciência verde",
     "hungarian": "Zöld tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีเขียว",
+    "arabic": "مصنع حزم العلم الخضراء",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -628,6 +662,7 @@
     "portuguese": "Fábrica de pacotes de ciência amarela",
     "hungarian": "Sárga tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีเหลือง",
+    "arabic": "مصنع حزم العلم الصفراء",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -646,6 +681,7 @@
     "portuguese": "Fábrica de pacotes de ciência vermelha",
     "hungarian": "Piros tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีแดง",
+    "arabic": "مصنع حزم العلم الحمراء",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -664,6 +700,7 @@
     "portuguese": "Laboratório de pesquisa",
     "hungarian": "Kutatási labor",
     "thai": "ห้องปฏิบัติการวิจัย",
+    "arabic": "معمل البحث",
   },
   "storehouse": {
     // TODO-chinese
@@ -684,6 +721,7 @@
     "portuguese": "Armazém de material de contrução",
     "hungarian": "Építőanyag raktár",
     "thai": "โรงจัดเก็บวัสดุก่อสร้าง",
+    "arabic": "مستودع مواد بناء",
   },
   "spacePort": {
     "english": "Space Port",
@@ -702,6 +740,7 @@
     "portuguese": "Porto espacial",
     "hungarian": "Űrrepülőtér",
     "thai": "ท่ายานอวกาศ",
+    "arabic": "محطة فضاء",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -720,6 +759,7 @@
     "portuguese": "Centro de reciclagem",
     "hungarian": "Újrahasznosító központ",
     "thai": "ศูนย์กลางรีไซเคิล",
+    "arabic": "مركز إعادة تدوير",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -738,6 +778,7 @@
     "portuguese": "Instalação de enriquecimento de solo",
     "hungarian": "Talajdúsító létesítmény",
     "thai": "โรงบำรุงดิน",
+    "arabic": "منشأة تحسين التربة",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -756,6 +797,7 @@
     "portuguese": "processador atmosférico",
     "hungarian": "Légkörgenerátor",
     "thai": "โรงแปรรูปบรรยากาศ",
+    "arabic": "معالج الهواء",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -774,6 +816,7 @@
     "portuguese": "Processador de oxigênio",
     "hungarian": "Oxigéngenerátor",
     "thai": "โรงแปรรูปออกซิเจน",
+    "arabic": "معالج الأوكسجين",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -792,6 +835,7 @@
     "portuguese": "Processador de carbono",
     "hungarian": "Szénfeldolgozó",
     "thai": "โรงแปรรูปคาร์บอน",
+    "arabic": "معالج الكاربون",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -810,6 +854,7 @@
     "portuguese": "Fazenda simples",
     "hungarian": "Egyszerű farm",
     "thai": "ไร่อย่างง่าย",
+    "arabic": "مزرعة بدائية",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -828,6 +873,7 @@
     "portuguese": "Fábrica de fertilisantes",
     "hungarian": "Műtrágyagyár",
     "thai": "โรงงานปุ๋ย",
+    "arabic": "مصنع أسمدة",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -846,6 +892,7 @@
     "portuguese": "Fazenda de vegetais",
     "hungarian": "Zöldségfarm",
     "thai": "ไร่ผัก",
+    "arabic": "مزرعة خضروات",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -864,6 +911,7 @@
     "portuguese": "Laboratório de carne",
     "hungarian": "Húslabor",
     "thai": "ห้องวิจัยเนื้อ",
+    "arabic": "معمل لحوم",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -882,6 +930,7 @@
     "portuguese": "Fábrica de alimento",
     "hungarian": "Ételgyár",
     "thai": "โรงงานเนื้อ",
+    "arabic": "مصنع أغذية",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -900,6 +949,7 @@
     "portuguese": "Moradia básica",
     "hungarian": "Alap lakóhely",
     "thai": "ที่อยู่อาศัยทั่วไป",
+    "arabic": "مسكن بدائي",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -918,6 +968,7 @@
     "portuguese": "Moradia decente",
     "hungarian": "Tisztességes lakóhely",
     "thai": "ที่อยู่อาศัยอย่างดี",
+    "arabic": "مسكن جيد",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -936,6 +987,7 @@
     "portuguese": "Moradia confortável",
     "hungarian": "Kényelmes lakóhely",
     "thai": "ที่อยู่อาศัยที่สุดสบาย",
+    "arabic": "مسكن مريح",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -954,6 +1006,7 @@
     "portuguese": "Edifício residencial",
     "hungarian": "Lakóház",
     "thai": "อาคารสำหรับอยู่อาศัย",
+    "arabic": "مبنى سكني",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -972,6 +1025,7 @@
     "portuguese": "Torre residencial",
     "hungarian": "Társasház",
     "thai": "อาคารพักอาศัย",
+    "arabic": "برج سكني",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -990,6 +1044,7 @@
     "portuguese": "Torre residencial luxuosa",
     "hungarian": "Luxus társasház",
     "thai": "อาคารพักอาศัยสุดหรู",
+    "arabic": "برج سكني فاخر",
   },
   "park": {
     "english": "Park",
@@ -1008,6 +1063,7 @@
     "portuguese": "Parque",
     "hungarian": "Park",
     "thai": "สวน",
+    "arabic": "حديقة",
   },
   "arena": {
     "english": "Stadium",
@@ -1026,6 +1082,7 @@
     "portuguese": "Estádio",
     "hungarian": "Stadion",
     "thai": "สนามกีฬา",
+    "arabic": "ملعب",
   },
   "school": {
     "english": "School",
@@ -1044,6 +1101,7 @@
     "portuguese": "Escola",
     "hungarian": "Iskola",
     "thai": "โรงเรียน",
+    "arabic": "مدرسة",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1062,6 +1120,7 @@
     "portuguese": "Poste elétrico",
     "hungarian": "Villanyoszlop",
     "thai": "เสาไฟฟ้า",
+    "arabic": "عمود طاقة",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1080,6 +1139,7 @@
     "portuguese": "Subestação de energia",
     "hungarian": "Elektronikai állomás",
     "thai": "สถานีไฟฟ้าย่อย",
+    "arabic": "محطة طاقة فرعية",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1098,6 +1158,7 @@
     "portuguese": "Turbina eólica",
     "hungarian": "Szélerőmű",
     "thai": "กังหันลม",
+    "arabic": "مولد طاقة رياح",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1116,6 +1177,7 @@
     "portuguese": "Planta de energia solar",
     "hungarian": "Napelem",
     "thai": "โรงไฟฟ้าพลังงานแสงอาทิตย์",
+    "arabic": "مولد طاقة شمسية",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1134,6 +1196,7 @@
     "portuguese": "Planta de energia nuclear",
     "hungarian": "Atomerőmű",
     "thai": "โรงไฟฟ้านิวเคลียร์",
+    "arabic": "مولد طاقة نووية",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1152,6 +1215,7 @@
     "portuguese": "Reator rápido de nêutrons",
     "hungarian": "Gyorsneutronos reaktor",
     "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
+    "arabic": "مفاعل نيوتروني سريع",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1170,6 +1234,7 @@
     "portuguese": "Grande placa vertical",
     "hungarian": "Nagy álló tábla",
     "thai": "ป้ายตั้งขนาดใหญ่",
+    "arabic": "لافتة قائمة",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1188,6 +1253,7 @@
     "portuguese": "Grande placa horizontal",
     "hungarian": "Nagy fekvő tábla",
     "thai": "ป้ายขนาดใหญ่",
+    "arabic": "لافتة نائمة",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1206,5 +1272,6 @@
     "portuguese": "Broca colossal de adamantina",
     "hungarian": "Kolosszális adamantit fúró",
     "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
+    "arabic": "حفار أدامانتين ضخم",
   }
 }
